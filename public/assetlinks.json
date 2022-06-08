@@ -1,0 +1,9 @@
+    [{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.loginweb.appxi",
+        "sha256_cert_fingerprints":
+        ["70:00:D6:F3:E1:46:00:5D:0E:06:D2:55:66:33:C0:4F:C8:4C:6C:48:DF:DA:30:A2:4F:CD:C8:29:26:87:61:41"]
+      }
+    }]
