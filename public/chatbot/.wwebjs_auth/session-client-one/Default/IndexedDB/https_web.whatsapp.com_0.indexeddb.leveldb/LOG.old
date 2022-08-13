@@ -1,0 +1,18 @@
+2022/06/08-23:51:01.780 a24e Reusing MANIFEST /var/www/appxi/public/chatbot/.wwebjs_auth/session-client-one/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/08-23:51:01.780 a24e Recovering log #59
+2022/06/08-23:51:01.978 a24e Reusing old log /var/www/appxi/public/chatbot/.wwebjs_auth/session-client-one/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000059.log 
+2022/06/08-23:51:17.610 a25c Level-0 table #67: started
+2022/06/08-23:51:17.686 a25c Level-0 table #67: 987252 bytes OK
+2022/06/08-23:51:17.695 a25c Delete type=0 #59
+2022/06/08-23:51:17.711 a25c Compacting 1@1 + 4@2 files
+2022/06/08-23:51:17.856 a25c Generated table #68@1: 18981 keys, 2183285 bytes
+2022/06/08-23:51:17.936 a25c Generated table #69@1: 17121 keys, 2155865 bytes
+2022/06/08-23:51:18.122 a25c Generated table #70@1: 118260 keys, 2274097 bytes
+2022/06/08-23:51:18.165 a25c Generated table #71@1: 24947 keys, 481714 bytes
+2022/06/08-23:51:18.165 a25c Compacted 1@1 + 4@2 files => 7094961 bytes
+2022/06/08-23:51:18.169 a25c compacted to: files[ 0 0 4 0 0 0 0 ]
+2022/06/08-23:51:18.169 a25c Delete type=2 #64
+2022/06/08-23:51:18.169 a25c Delete type=2 #63
+2022/06/08-23:51:18.169 a25c Delete type=2 #67
+2022/06/08-23:51:18.169 a25c Delete type=2 #62
+2022/06/08-23:51:18.169 a25c Delete type=2 #61

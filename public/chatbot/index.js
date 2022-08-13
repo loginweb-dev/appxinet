@@ -31,7 +31,7 @@ client.on("qr", (qr) => {
 client.on('ready', () => {
     console.log('El BOT esta listo.');
 	app.listen(process.env.PORT, () => {
-		console.log('BOT CORRIENDO EN '+process.env.DOMAIN);
+		console.log('BOT CORRIENDO EN '+process.env.PORT);
 	});
   
 });
